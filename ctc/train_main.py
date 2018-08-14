@@ -40,4 +40,4 @@ if __name__ == '__main__':
         step, summary, loss = i2t.train(images, sparse_targets, seq_len)
         fw_train.add_summary(summary, step)
         print('step:', step, ' ', 'train loss:', loss)
-        print('test git')
+        # print('test git')
