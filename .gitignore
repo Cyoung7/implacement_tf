@@ -19,3 +19,4 @@ lib64/
 parts/
 sdist/
 ctc/output/log/
+./idea
