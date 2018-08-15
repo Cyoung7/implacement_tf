@@ -1,6 +1,6 @@
 # implacement_tf
-
-使用tensorflow实现的各种demo，以增加对tensorflow的熟练程度,本项目纯属研究学习
+- 使用tensorflow实现的各种demo，以增加对tensorflow的熟练程度,本项目纯属研究学习
+- 版本:tensorflow-gpu1.8.0
 
 ## demo list
 
