@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9d7c3c6-dba4-4608-b05c-17154841c9c8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctc/train_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctc/train_main.py" afterDir="false" />
-    </list>
+    <list default="true" id="a9d7c3c6-dba4-4608-b05c-17154841c9c8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,8 +96,8 @@
       <file leaf-file-name="train_main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ctc/train_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="586">
+              <caret line="39" column="72" lean-forward="true" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
               <folding>
                 <element signature="e#21#68#0" expanded="true" />
               </folding>
@@ -787,8 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ctc/train_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state relative-caret-position="586">
+          <caret line="39" column="72" lean-forward="true" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
           <folding>
             <element signature="e#21#68#0" expanded="true" />
           </folding>

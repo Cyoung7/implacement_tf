@@ -41,4 +41,4 @@ if __name__ == '__main__':
         fw_train.add_summary(summary, step)
         print('step:', step, ' ', 'train loss:', loss)
         # print('test git')
-        print('test rename')
+        # print('test rename')
